@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarageMiniConsoleApp", "GarageMiniConsoleApp\GarageMiniConsoleApp.csproj", "{FE67C359-D496-4BFA-B264-AA1E7D378405}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE67C359-D496-4BFA-B264-AA1E7D378405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE67C359-D496-4BFA-B264-AA1E7D378405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE67C359-D496-4BFA-B264-AA1E7D378405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE67C359-D496-4BFA-B264-AA1E7D378405}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97B3E5FF-40BE-4E0F-99A1-664CDC94B4A1}
+	EndGlobalSection
+EndGlobal
